@@ -1,13 +1,16 @@
 # partyfon
 
+
 //IOS Install(only Mac)
-npm i
-cd ios
-bundle install
-bundle exec pod install
+``
+- npm i
+- cd ios
+- bundle install
+- bundle exec pod install
+``
+
 
 //Android Install
-
 
 
 //APK Start
